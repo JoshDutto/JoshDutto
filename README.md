@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshDutto
 - 👀 I’m interested in App and Game Development
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift, Xcode development and game design
 - 💞️ I’m looking to collaborate on any projects!
 - 📫 How to reach me - Twitter @JoshDutto
 
