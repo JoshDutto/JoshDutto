@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh! I'm 29, born and raised in Liverpool, UK.
-- 👀 I’m interested in App and Game Development
-- 🌱 I’m currently learning Swift and C++
+- 👀 I’m interested in App and Game Development.
+- 🌱 I’m currently learning Swift.
 - 💞️ I’m looking to collaborate on any projects!
 - 📫 How to reach me - On X/Instagram @JoshDutto
 
