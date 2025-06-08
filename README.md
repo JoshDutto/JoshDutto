@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Josh! I'm 30, born and raised in Liverpool, UK.
+- 👋 Hi, I’m Josh! I'm 31, born and raised in Liverpool, UK.
 - 👀 I’m interested in App and Game Development.
 - 🌱 I’m currently learning Swift.
 - 💞️ I’m looking to collaborate on any projects!
